@@ -1,0 +1,1 @@
+La differenza principale è che il protocollo HTTP lascia scoperti le informazioni del sito; mentre il protocollo HTTPS li cripta rendendoli così non visibili. 
